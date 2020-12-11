@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/44f27eda-1281-41a3-a02d-f2ea6686ef68/resourceGroups/udac-prj2-rg/providers/Microsoft.Web/sites/techconf-web214",
+    "appService.deploySubpath": "."
+}
